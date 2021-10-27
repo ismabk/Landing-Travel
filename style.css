@@ -1,4 +1,37 @@
 /* COLORES:
 #00F0FF  AZUL CLARO
-#0500AF  AZUL FUERTE
+#030064  AZUL FUERTE
  */
+.bg-primario{
+    background-color: #030064;
+}
+.bg-secundary {
+    background-color: #00F0FF;
+}
+.c-primary {
+    color: #030064
+}
+.c-secondary {
+    color:#00F0FF
+}
+.c-blanco{
+    color: white !important;
+}
+.img-logo {
+    width: 100px;
+    height: 60px;
+    background: no-repeat url("photos/travel\ Logo\ inv.png");
+    background-size: 100px 60px; 
+}
+.ahover:hover{
+    color: #00F0FF !important;
+}
+.img-principal{
+  
+    display: flex;
+    justify-content: center;
+  
+}
+.img-position{
+    object-fit:cover;
+}
