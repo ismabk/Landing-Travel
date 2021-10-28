@@ -35,3 +35,7 @@
 .img-position{
     object-fit:cover;
 }
+.navbar-light .navbar-toggler-icon{
+    background-image: url("photos/menu-removebg.png") !important;
+    background-color: #030064;
+}
