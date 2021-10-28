@@ -17,6 +17,10 @@
 .c-blanco{
     color: white !important;
 }
+body{
+    text-align: center;
+    background-color: rgba(0, 240, 255,0.2) !important;
+}
 .img-logo {
     width: 100px;
     height: 60px;
@@ -39,3 +43,26 @@
     background-image: url("photos/menu-removebg.png") !important;
     background-color: #030064;
 }
+
+input[type=date] {
+    height: 35px;
+    margin: 0 auto;
+    width: 100%;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #00F0FF;
+    outline: none;
+    border: 0;
+    border-radius: 3px;
+    padding: 10px;
+    color: #030064;
+  }
+  .btn {
+    background-color: #030064 !important;
+    color: #00F0FF !important;
+  }
+  .btn:hover{
+    background-color: #00F0FF !important;
+    color: #030064 !important;
+    font-weight: bold;
+  }
