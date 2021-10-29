@@ -30,14 +30,15 @@ body{
 .ahover:hover{
     color: #00F0FF !important;
 }
-.img-principal{
-  
-    display: flex;
-    justify-content: center;
-  
+div.container {
+    width: 96%;
+    max-width: 960px;
+    margin: 0 auto;
 }
 .img-position{
     object-fit:cover;
+    width: 100%;
+    height: auto;
 }
 .navbar-light .navbar-toggler-icon{
     background-image: url("photos/menu-removebg.png") !important;
@@ -65,4 +66,12 @@ input[type=date] {
     background-color: #00F0FF !important;
     color: #030064 !important;
     font-weight: bold;
+  }
+  .carousel-inner img {
+    margin: auto;
+  }
+  .text-carrusel {
+     font-weight: bold;
+     color: white;
+     font-size: 1.5em;
   }
