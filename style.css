@@ -3,4 +3,78 @@
 #0500AF  AZUL FUERTE
  */
 
- 
+.bg-primario{
+    background-color: #030064;
+}
+.bg-secundary {
+    background-color: #00F0FF;
+}
+.c-primary {
+    color: #030064
+}
+.c-secondary {
+    color:#00F0FF
+}
+.c-blanco{
+    color: white !important;
+}
+
+/*Da un efecto 3D a la imagen de las cards*/
+.grow:hover {
+    box-shadow:
+    1px 1px #53a7ea,
+    2px 2px #53a7ea,
+    3px 3px #53a7ea;
+    -webkit-transform: translateX(-3px);
+    transform: translateX(-3px);   
+}
+.card-body {
+    height: 238px !important;
+}
+.card-img-top {
+    height: 160.88px;
+}
+.card-add {
+    width: 286px !important;
+    height: 600px !important;
+    margin-right: 40px !important;
+}
+.row {
+    height: 550px;
+}
+.btn btn-primary {
+    justify-content: end;
+}
+.container.icon {
+    display: flex;
+}
+.card-icon {
+    width: 100px;
+    height: 50px;
+}
+
+/*Footer con Grid y List Group*/
+
+.footer {
+    margin-top: 20px;
+    background-color: #030064;
+}
+
+.container-footer {
+    background-color: #030064 !important;
+    padding: 10px 10px 10px 10px;
+    display: block;
+}
+.color-font:hover {
+        color:#00F0FF !important;
+}
+
+
+.img-logo {
+    width: 150px;
+    height: 100px;
+}
+
+.imagen-footer {
+    display: flex;
+}
