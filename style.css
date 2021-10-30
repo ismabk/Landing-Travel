@@ -35,15 +35,7 @@
     height: 160.88px;
 }
 .card-add {
-    width: 286px !important;
-    height: 600px !important;
     margin-right: 40px !important;
-}
-.row {
-    height: 550px;
-}
-.btn btn-primary {
-    justify-content: end;
 }
 .container.icon {
     display: flex;
@@ -77,4 +69,9 @@
 
 .imagen-footer {
     display: flex;
+}
+.centrado{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
