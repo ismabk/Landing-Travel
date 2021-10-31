@@ -20,6 +20,7 @@
 }
 
 /*Da un efecto 3D a la imagen de las cards*/
+
 .grow:hover {
     box-shadow:
     1px 1px #53a7ea,
@@ -28,6 +29,9 @@
     -webkit-transform: translateX(-3px);
     transform: translateX(-3px);   
 }
+
+/*Cards*/
+
 .card-body {
     height: 238px !important;
 }
@@ -44,6 +48,7 @@
     width: 100px;
     height: 50px;
 }
+
 
 /*Footer con Grid y List Group*/
 
