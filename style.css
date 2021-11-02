@@ -80,10 +80,11 @@ input[type=date] {
     .rotate {
       transform: rotate(90deg);
     }
+    .mar-auto {
+        margin: auto !important;
+    }
   }
-
 /*Da un efecto 3D a la imagen de las cards*/
-
 .grow:hover {
     box-shadow:
     1px 1px #53a7ea,
@@ -92,17 +93,9 @@ input[type=date] {
     -webkit-transform: translateX(-3px);
     transform: translateX(-3px);   
 }
-
 /*Cards*/
-
-.card-body {
-    height: 238px !important;
-}
 .card-img-top {
-    height: 160.88px;
-}
-.card-add {
-    margin-right: 40px !important;
+    height: auto;
 }
 .container.icon {
     display: flex;
@@ -111,10 +104,7 @@ input[type=date] {
     width: 100px;
     height: 50px;
 }
-
-
 /*Footer con Grid y List Group*/
-
 .footer {
     margin-top: 20px;
     background-color: #030064;
@@ -128,8 +118,6 @@ input[type=date] {
 .color-font:hover {
         color:#00F0FF !important;
 }
-
-
 .img-logo {
     width: 150px;
     height: 100px;
