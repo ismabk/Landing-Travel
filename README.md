@@ -1,26 +1,56 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+<p align="center">
+	<img
+		width="300"
+		alt="4Geeks Academy"
+		src="https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/static/background_art.jpg?raw=true">
+</p>
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
 
-The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
+<h1 align="center">Welcome to 4Geeks Academy</h1>
 
-[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
+<h3 align="center">&lt;\ Sitio Web colaborativo (Git collaboration)&gt;</h3>
 
-## What to do next?
+## Contenido
 
-Create an `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+1. Proyecto.
+2. Tecnologías.
+4. Entrega.
+5. Colaboración.
 
-```sh
-$ pip3 install flask && python3 server.py
-```
+## Proyecto
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+Todo el mundo conoce Instagram, es el ejercicio ideal y divertido para practicar tus habilidades de principiante en HTML/CSS. En este proyecto he practicado los siguientes conceptos:
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+- Reutilizar clases de CSS.
+- Reglas de CSS de Display y Position.
+- Construir un layout con CSS/HTML.
+- Centrar contenedores.
+- Flow left y right.
+- Importar imágenes.
+
+La <a href="https://github.com/alesanchezr/html-template-engine">Html-Template-Engine library</a> se utiliza como motor para crear plantillas para crear la página de destino.
+
+## Tecnologías
+
+Este proyecto contiene:
+
+- <strong>HTML5</strong>: lenguaje de marcado para la elaboración de páginas web.
+- <strong>CSS3</strong>: lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado.
+- <strong>Bootstrap</strong>: Bootstrap es una biblioteca multiplataforma o conjunto de herramientas de código abierto para diseño de sitios y aplicaciones web.
+- <strong>Git</strong>: Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de   versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
+- <strong>GitHub</strong>: GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código    
+  fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc.
+
+## Entrega
+
+Todos los participantes del equipo presentan un repositorio como solución.
+
+## Colaboración
+
+- Ismael Bugarin
+- Mª Cristina Fernández
+
+
+
+
+
