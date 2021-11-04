@@ -28,7 +28,6 @@ Todo el mundo conoce Instagram, es el ejercicio ideal y divertido para practicar
 - Flow left y right.
 - Importar imágenes.
 
-La <a href="https://github.com/alesanchezr/html-template-engine">Html-Template-Engine library</a> se utiliza como motor para crear plantillas para crear la página de destino.
 
 ## Tecnologías
 
@@ -43,7 +42,7 @@ Este proyecto contiene:
 
 ## Entrega
 
-Todos los participantes del equipo presentan un repositorio como solución.
+Todos los participantes del equipo presentan una rama en el repositorio como solución. Posteriormente se unen en una rama developer para ser finalmente mergeado en la rama master
 
 ## Colaboración
 
