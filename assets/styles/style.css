@@ -24,7 +24,7 @@ body{
 .img-logo-nav {
     width: 100px;
     height: 60px;
-    background: no-repeat url("photos/travel\ Logo\ inv.png");
+    background: no-repeat url("../resourses/photos/travel\ Logo\ inv.png");
     background-size: 100px 60px; 
 }
 .ahover:hover{
@@ -41,7 +41,7 @@ div.container {
     height: auto;
 }
 .navbar-light .navbar-toggler-icon{
-    background-image: url("photos/menu-removebg.png") !important;
+    background-image: url("../resourses/photos/menu-removebg.png") !important;
     background-color: #030064;
 }
 
